@@ -9,7 +9,7 @@ spring :
     password : '{cipher}AQBFwe9bar5/9IXdI9KndkcYGIJF1AXwUwyHz5DBvPJxfF6eHiSrkbstKmCfnGqG59YRHZ9gXW9cDAh7UG3MFb8/UOLCqlmAaRpWA7m7qGsSoFpLrMcb+RasLtfaQuhszh6broCY8LpBT6GqYR/R6QHzBTgO0tq00Tn4JtCaD0xfeOaknW+/joVkz7P+UCaLLRggIaEU4o91Hau9IQaDk/+Vw0uiU81xVdZlu2gdaiKjm1vGrmIW03FTAK4ICuwE7Gbg+zsN4hpVpOcJQLFO7re1OVNLz1RipkQOrPIcr6dJeUPRu2PxcWFTuvQslG63izDkIkE7kAHXMIlDqggLKgGKJ8gxZbKmjMXU4Baba/DC6vasWXHGyhFbDdXPEXM16Sg='
 
 gateway:
-  ip : 192.168.137.1
+  ip : 172.18.0.5
 
 order_service :
   url : http://ORDER-SERVICE/order-service/%s/orders
